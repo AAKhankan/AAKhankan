@@ -1,4 +1,4 @@
-- Hi, I’m @AAKhankan
+- Hi, I’m Abd Alrahman Khankan
 - I'm 19 Years old
 - From Australia
 - Freshman at Bilkent University
