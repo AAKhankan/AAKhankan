@@ -1,0 +1,5 @@
+- Hi, I’m @AAKhankan
+- I'm 19 Years old
+- From Australia
+- Freshman at Bilkent University
+- CS Department
