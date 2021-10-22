@@ -1,5 +1,5 @@
 - Hi, I’m Abd Alrahman Khankan
-- I'm 19 Years old
-- From Australia
+- 19 Years old
+- Australian
 - Freshman at Bilkent University
 - CS Department
